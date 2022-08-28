@@ -20,3 +20,7 @@
 ## 5 - Prototipação
 - [PDF](https://github.com/Darklabel91/UX_Fiap/blob/main/5-%20Prototipação/1SCJO%20-%20UX%20-%20cap5%20-%20Mais%20um%20pouco%20de%20Prototipacao_RevFinal_20201016.pdf)
 - [Ref](https://github.com/Darklabel91/UX_Fiap/blob/main/5-%20Prototipação/1.png)
+
+## 6 - Ferramentas de Análise
+- [PDF](https://github.com/Darklabel91/UX_Fiap/blob/main/6-%20Ferramentas%20de%20Análise/1SCJO%20-%20UX%20-%20cap6%20-%20Ferramentas%20de%20analise%20e%20teste_RevFinal.pdf)
+- [Ref](https://github.com/Darklabel91/UX_Fiap/blob/main/6-%20Ferramentas%20de%20Análise/1.png)
