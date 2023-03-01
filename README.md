@@ -1,7 +1,7 @@
 # UX_Fiap
 
 ## 1 - Para quem você projeta sua UX
-- [PDF](https://github.com/Darklabel91/UX_Fiap/blob/main/1-%20Para%20quem%20você%20está%20criando%20sua%20UX/1SCJO%20-%20UX%20-%20cap1%20-%20Para%20quem%20você%20está%20criando%20sua%20UX_RevFinal.pdf)
+- [PDF](https://github.com/Darklabel91/UX_Fiap/tree/main/1-%20Para%20quem%20você%20está%20criando%20sua%20UX)
 - [Ref](https://github.com/Darklabel91/UX_Fiap/blob/main/1-%20Para%20quem%20você%20está%20criando%20sua%20UX/Captura%20de%20Tela%202022-08-24%20às%2018.29.34.png)
 
 ## 2 - UX e Modern Web
