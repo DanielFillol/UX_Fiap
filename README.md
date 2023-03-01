@@ -10,8 +10,8 @@
 - [Ref.2](https://github.com/Darklabel91/UX_Fiap/blob/main/2-%20UX%20e%20Modern%20Web/1.1.png)
 
 ## 3 - Prótótipos e Design
-- [PDF](https://github.com/Darklabel91/UX_Fiap/blob/main/3-%20Protótipos%20e%20design/1SCJO%20-%20UX%20-%20cap3%20-%20Prototipos%20e%20design_RevFinal.pdf)
-- [Ref](https://github.com/Darklabel91/UX_Fiap/blob/main/3-%20Protótipos%20e%20design/1.png)
+- [PDF](https://github.com/Darklabel91/UX_Fiap/tree/main/3-%20Protótipos%20e%20design)
+- [Ref](https://github.com/Darklabel91/UX_Fiap/tree/main/3-%20Protótipos%20e%20design)
 
 ## 4 - Design Sprint
 - [PDF](https://github.com/Darklabel91/UX_Fiap/blob/main/4-%20Pesquisa%20e%20Dados/1SCJO%20-%20UX%20-%20cap4%20-%20Pesquisas%20e%20dados_RevFinal.pdf)
